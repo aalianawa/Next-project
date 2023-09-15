@@ -56,7 +56,7 @@ const Hero = () => {
         <div className="row row-cols-1 row-cols-lg-5  mb-5 justify-content-between justify-content-center text-center">
           <div className="bg">
             <Image className="img-fluid" width={300} src={First} alt="pic" />
-            <Image className="shadow-2 img-fluid" src={Shd} alt="pic" />
+            <Image className="shadow-2" src={Shd} alt="pic" />
             <p className="text-center pics">Robin rattle</p>
           </div>
 
